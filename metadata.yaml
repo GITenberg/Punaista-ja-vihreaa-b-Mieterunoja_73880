@@ -1,0 +1,34 @@
+_repo: Punaista-ja-vihreaa-b-Mieterunoja_73880
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Soini, Lauri
+    aliases:
+    - Ahava, Juho
+    - Soininen, L.
+    - Sauramo, Lauri
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '42573'
+    url: http://www.gutenberg.org/2009/agents/42573
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Lauri_Soini
+    - https://en.wikipedia.org/wiki/Lauri_Soininen
+description: ''
+gutenberg_issued: '2024-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73880'
+language: fi
+pgterms:marc905: 20240603000518soini
+pgterms:marc906: '1903'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bE. E. Sundvall, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Punaista ja vihreää : $b Mieterunoja'
+url: http://www.gutenberg.org/ebooks/73880
