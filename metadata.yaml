@@ -1,5 +1,8 @@
 _repo: Punaista-ja-vihreaa-b-Mieterunoja_73880
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Soini, Lauri
@@ -15,6 +18,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Lauri_Soini
     - https://en.wikipedia.org/wiki/Lauri_Soininen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73880#Punaista-ja-vihreaa-b-Mieterunoja
 gutenberg_issued: '2024-06-20'
 gutenberg_type: Text
 identifiers:
